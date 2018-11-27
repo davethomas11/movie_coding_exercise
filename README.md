@@ -8,3 +8,10 @@ To run first install dependencies:
 Then run via react native cli:
 `react-native run-ios`
 
+or
+`react-native run-android`
+
+
+Note node and react-native must be installed to use those commands.
+React native can be installed via:
+`npm install -g react-native-cli`

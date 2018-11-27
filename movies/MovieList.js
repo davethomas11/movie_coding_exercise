@@ -12,7 +12,7 @@ const MovieList = (props) => (<FlatList
       cover={item.backdrop_path}
       onPress={() => props.onNavigate(item)}
     />)
-  } z
+  }
 />);
 
 export default MovieList;

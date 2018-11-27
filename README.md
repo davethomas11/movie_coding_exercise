@@ -15,3 +15,8 @@ or
 Note node and react-native must be installed to use those commands.
 React native can be installed via:
 `npm install -g react-native-cli`
+
+See getting started with react native for more details on running:
+https://facebook.github.io/react-native/docs/getting-started.html
+
+Click on building projects with native code
